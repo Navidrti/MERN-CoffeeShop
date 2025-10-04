@@ -34,12 +34,9 @@ These variables configure the database connection and default login credentials.
 npm run build
 npm run start
 
-
 ---
 
-## 🖼️ Screenshots
-
-Below are some screenshots of the Coffee Shop app:
+## 📸 Screenshots
 
 <p align="center">
   <img src="./assets/Screenshot1.png" alt="Coffee Shop Screenshot 1" width="700"/>
@@ -51,5 +48,4 @@ Below are some screenshots of the Coffee Shop app:
   <img src="./assets/Screenshot3.png" alt="Coffee Shop Screenshot 3" width="700"/>
 </p>
 
----
 ```
