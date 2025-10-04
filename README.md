@@ -33,6 +33,7 @@ These variables configure the database connection and default login credentials.
 ```bash
 npm run build
 npm run start
+```
 
 ---
 
@@ -47,5 +48,3 @@ npm run start
 <p align="center">
   <img src="./assets/Screenshot3.png" alt="Coffee Shop Screenshot 3" width="700"/>
 </p>
-
-```
