@@ -40,11 +40,11 @@ npm run start
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./assets/Screenshot1.png" alt="Coffee Shop Screenshot 1" width="700"/>
+  <img src="./assets/Screenshot1.png" alt="Coffee Shop Screenshot 1" width="300"/>
 </p>
 <p align="center">
-  <img src="./assets/Screenshot2.png" alt="Coffee Shop Screenshot 2" width="700"/>
+  <img src="./assets/Screenshot2.png" alt="Coffee Shop Screenshot 2" width="300"/>
 </p>
 <p align="center">
-  <img src="./assets/Screenshot3.png" alt="Coffee Shop Screenshot 3" width="700"/>
+  <img src="./assets/Screenshot3.png" alt="Coffee Shop Screenshot 3" width="300"/>
 </p>
